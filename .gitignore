@@ -1,0 +1,10 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+ponto.db
+
+# React / Node
+node_modules/
+dist/
+.env
